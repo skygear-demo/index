@@ -1,7 +1,7 @@
 # Skygear demos 
 List of all Skygear Demos
-
-Below are some useful code demos to help you understand how Skygear works!
+* Help you understand how Skygear works!
+* You can run live demos or even deploy them on to your own [Skygear account](https://skygear.io) for free.
 
 ## iOS app
 
@@ -50,7 +50,7 @@ Below are some useful code demos to help you understand how Skygear works!
     *Database hooks, Scheduled tasks, Trigger by SDK, Trigger by HTTP endpoint*
 * [**Cat API**](https://github.com/skygear-demo/skygear-catapi)
     *Triggered by HTTP endpoint*
-* [Skymail](https://github.com/skygear-demo/skymail)
+* [**Skymail**](https://github.com/skygear-demo/skymail)
     *Send email with skygear.io*
 * [**Chat cloud code**](https://github.com/skygear-demo/cloud-chat-demo-js)
     *How you can listen to chat event on cloud functions*

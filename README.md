@@ -62,7 +62,10 @@ List of all Skygear Demos
     *How you can listen to chat event on cloud functions*
 
 ---
+## Skygear Main Repositories 
 
+* Skygear's Server, SDK and official plugin codes are opensourced and hosted at https://github.com/SkygearIO
+* Feel free to contribute. You can read more detail on each repo's readme file.
 
 ## Documentation
 * [Skygear Guides](https://docs.skygear.io/guides/)

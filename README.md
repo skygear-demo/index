@@ -1,7 +1,13 @@
+![](https://github.com/SkygearIO/skygear-server/raw/master/.github/skygear-logo.png)
+
+
 # Skygear demos 
 List of all Skygear Demos
-* Help you understand how Skygear works!
+* Demos to help you understand how Skygear works!
 * You can run live demos or even deploy them on to your own [Skygear account](https://skygear.io) for free.
+
+[![Slack](https://img.shields.io/badge/join-Slack-green.svg)](https://slack.skygear.io/)
+[![Forum](https://img.shields.io/badge/join-Forum-green.svg)](https://discuss.skygear.io)
 
 ## iOS app
 
@@ -55,4 +61,36 @@ List of all Skygear Demos
 * [**Chat cloud code**](https://github.com/skygear-demo/cloud-chat-demo-js)
     *How you can listen to chat event on cloud functions*
 
+---
 
+
+## Documentation
+* [Skygear Guides](https://docs.skygear.io/guides/)
+* [Skygear API References](https://docs.skygear.io/api-reference/)
+* [Sample Projects and Tutorials](https://github.com/skygear-demo)
+
+## Support
+
+If you believe you've found an bugs or feature requests for Skygear, please feel
+free to [report an issue](https://github.com/SkygearIO/skygear-server/issues).
+
+Please do not use the issue tracker for personal support requests. Instead, use
+[Stack Overflow](http://stackoverflow.com/questions/tagged/skygear) community,
+or ask questions in [Forum](https://discuss.skygear.io).
+
+For issues about [Skygear Guides](https://docs.skygear.io) please use the
+[Skygear Guides issues tracker](https://github.com/skygeario/guides/issues).
+
+
+## License & Copyright
+
+```
+Copyright (c) 2015-present, Oursky Ltd.
+All rights reserved.
+
+This source code is licensed under the Apache License version 2.0
+found in the LICENSE file in the root directory of this source tree.
+An additional grant of patent rights can be found in the PATENTS
+file in the same directory.
+
+```

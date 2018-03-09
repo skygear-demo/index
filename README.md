@@ -1,8 +1,8 @@
 ![](https://github.com/SkygearIO/skygear-server/raw/master/.github/skygear-logo.png)
 
 
-# Skygear demos 
-List of all Skygear Demos
+# List of all Skygear Demos
+
 * Demos to help you understand how Skygear works!
 * You can run live demos or even deploy them on to your own [Skygear account](https://skygear.io) for free.
 
@@ -60,6 +60,20 @@ List of all Skygear Demos
     *Send email with skygear.io*
 * [**Chat cloud code**](https://github.com/skygear-demo/cloud-chat-demo-js)
     *How you can listen to chat event on cloud functions*
+
+## Upcoming Roadmaps
+
+We are adding more demos to enrich developer's experience to get started at Skygear.
+
+Here's some platforms we are working in progress and planning to add.
+
+* Chatbot on cloud function
+* iOS Objective-C app demo
+* React Native demo
+
+If you have any platform / specific demo idea / wish to add you demo project here, pleas let us know in the Skygear Forum.
+
+[![Forum](https://img.shields.io/badge/join-Forum-green.svg)](https://discuss.skygear.io)
 
 ---
 ## Skygear Main Repositories 

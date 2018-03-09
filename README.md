@@ -9,7 +9,7 @@
 [![Slack](https://img.shields.io/badge/join-Slack-green.svg)](https://slack.skygear.io/)
 [![Forum](https://img.shields.io/badge/join-Forum-green.svg)](https://discuss.skygear.io)
 
-## iOS app
+## 📱iOS app
 
 ### Swift
 
@@ -18,7 +18,7 @@
 * [**A simple Instagram-like app**](https://github.com/skygear-demo/photo-app)
     *User sign up and login, Save and query records, Files upload*
 
-## Web app
+## 💻 Web app
 
 ### React
 
@@ -34,12 +34,12 @@
 * [**A sugar intake tracking app**](https://github.com/skygear-demo/ionic-sanssugar)
     *User sign up and login, Save and query records, Real-time data sync*
 
-## Android app
+## 📱Android app
 
 * [**A real-time messaging app**](https://github.com/skygear-demo/android-chat-uikit-demo)
     *User sign up and login, Chat, Chat UI Kit in Java*
 
-## Cloud functions
+## ⛅ Cloud functions
 
 ### JavaScript
 
